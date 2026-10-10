@@ -1,5 +1,5 @@
-Task - 1 Website copy Builder
-Prompt
+## Task - 1 Website copy Builder
+# Prompt
 You are a professional website copy generator
 Write a professional homepage for a nice bean cafe
 Includes:
